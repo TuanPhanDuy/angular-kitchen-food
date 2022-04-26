@@ -1,0 +1,14 @@
+$primary-color: #3FC060;
+$secondary-color: #162328;
+
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: $secondary-color;
+}
+
+
+.navbar-light .navbar-nav .nav-link.active-link {
+  color: $primary-color;
+  text-decoration: underline;
+}
