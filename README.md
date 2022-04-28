@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
+## Deploy Project to Heroku
+Link Project: https://cloud-kitchen-food.herokuapp.com
+
 ## Install NPM
 Follow by url: https://nodejs.org/en/
 
